@@ -54,7 +54,7 @@
 }
 
 #timeline {
-  padding: 100px 0;
+  padding: 20px 0;
   background: #f7f7f7;
   border-top: 1px solid rgba(191, 191, 191, 0.4);
   border-bottom: 1px solid rgba(191, 191, 191, 0.4);
@@ -119,7 +119,7 @@
 @media (min-width: 1000px) {
   #timeline .demo-card {
     max-width: 450px;
-    height: 400px;
+    height: 460px;
     margin: 90px;
     margin-top: 45px;
     margin-bottom: 45px;
@@ -200,7 +200,7 @@
 }
 @media (min-width: 1000px) {
   #timeline .demo-card .body {
-    height: 315px;
+    height: 400px;
   }
 }
 #timeline .demo-card .body p {

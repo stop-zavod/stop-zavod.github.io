@@ -64,6 +64,10 @@ body {
   margin-top: 20px;
 }
 
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
 .jumbotron {
   background-image: url("../img/pexels-photo-682078.jpeg");
   background-size: cover;
@@ -93,4 +97,8 @@ body {
 .active .nav-link {
   font-weight: bold;
   text-decoration: underline;
+}
+
+.big-icon {
+  font-size: 100px;
 }
