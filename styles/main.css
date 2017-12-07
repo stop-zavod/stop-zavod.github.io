@@ -102,3 +102,22 @@ body {
 .big-icon {
   font-size: 100px;
 }
+
+@media (max-width: 1325px) {
+  .hidden-md-down {
+    display: none;
+  }
+}
+
+
+.text-important {
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5-
+}
+
+@media (max-width: 768px) {
+  .display-3 {
+    font-size: 23px;
+  }
+}
