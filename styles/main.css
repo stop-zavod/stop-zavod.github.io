@@ -130,6 +130,7 @@
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   height: 56px;
+  width: 200px;
   line-height: 2.0625rem;
   font-size: 1.25rem;
   cursor: pointer;
@@ -137,5 +138,4 @@
 
 .pay-btn:hover {
   background-color: #ffbb4d;
-
 }
