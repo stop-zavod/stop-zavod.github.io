@@ -59,6 +59,9 @@
     margin-top: 7rem;
   }
 }
+.margin-top-10 {
+  margin-top: 10px;
+}
 
 .margin-top-20 {
   margin-top: 20px;
@@ -86,7 +89,6 @@
   font-size: 20px;
   height: 30px;
   border-radius: 0;
-  margin-top: 15px;
   margin-bottom: 5px;
 }
 
@@ -138,4 +140,8 @@
 
 .pay-btn:hover {
   background-color: #ffbb4d;
+}
+
+.petitions-img {
+  width: 75%;
 }
